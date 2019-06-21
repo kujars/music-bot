@@ -1,0 +1,30 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "libsodium-wrappers": "^0.7.4",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.6",
+    "ytdl": "^0.11.1",
+    "ytdl-core": "^0.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kujars/music-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kujars/music-bot/issues"
+  },
+  "homepage": "https://github.com/kujars/music-bot#readme"
+}
